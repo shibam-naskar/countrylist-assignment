@@ -1,0 +1,16 @@
+.top-100 {
+    top: 100%
+}
+
+.bottom-100 {
+    bottom: 100%
+}
+
+.max-h-select {
+    max-height: 300px;
+}
+
+.box{
+    background:linear-gradient(#22d3ee,transparent);
+    background-color:#0ea5e9 /*this your primary color*/
+  }
